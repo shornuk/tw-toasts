@@ -1,6 +1,6 @@
 {
   "name": "tw-toasts",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Plugin that adds toast utilities to Tailwindcss",
   "main": "index.js",
   "contributors": [
