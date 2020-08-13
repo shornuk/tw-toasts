@@ -1,11 +1,9 @@
 {
   "name": "tw-toasts",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Plugin that adds toast utilities to Tailwindcss",
   "main": "index.js",
-  "contributors": [
-    "Sean Hill",
-  ],
+  "contributors": "Sean Hill",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
